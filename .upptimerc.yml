@@ -9,6 +9,8 @@ sites:
     url: https://pve-01.efimio.ru
   - name: Gitea
     url: https://git.efimio.ru
+  - name: Nextcloud
+    url: https://nextcloud.efimio.ru/
 assignees:
   - Filadeus
 
