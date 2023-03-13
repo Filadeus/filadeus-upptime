@@ -1,7 +1,7 @@
 url: https://munin.efimio.ru
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-03-12T23:09:23.611Z
+status: up
+code: 200
+responseTime: 837
+lastUpdated: 2023-03-13T18:43:18.143Z
 startTime: Thu Jun 30 2022 13:06:43 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
