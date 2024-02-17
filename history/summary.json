@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/munin.efimio.ru.ico",
     "slug": "munin",
     "status": "down",
-    "uptime": "58.82%",
+    "uptime": "58.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "44.12%",
-    "time": 1240,
+    "uptimeYear": "43.85%",
+    "time": 1242,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1024,
     "dailyMinutesDown": {
-      "2024-02-16": 24,
+      "2024-02-17": 24,
+      "2024-02-16": 1440,
       "2024-02-15": 1440,
       "2024-02-14": 1440,
       "2024-02-13": 1440,
@@ -240,8 +241,7 @@
       "2023-03-12": 1131,
       "2023-03-06": 563,
       "2023-03-05": 1440,
-      "2023-03-04": 156,
-      "2023-02-17": 326
+      "2023-03-04": 156
     }
   },
   {
@@ -250,18 +250,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pve-01.efimio.ru.ico",
     "slug": "pve",
     "status": "down",
-    "uptime": "58.83%",
+    "uptime": "58.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "44.12%",
-    "time": 1027,
+    "uptimeYear": "43.85%",
+    "time": 1029,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 879,
     "dailyMinutesDown": {
-      "2024-02-16": 24,
+      "2024-02-17": 24,
+      "2024-02-16": 1440,
       "2024-02-15": 1440,
       "2024-02-14": 1440,
       "2024-02-13": 1440,
@@ -485,8 +486,7 @@
       "2023-03-12": 1130,
       "2023-03-06": 563,
       "2023-03-05": 1440,
-      "2023-03-04": 155,
-      "2023-02-17": 326
+      "2023-03-04": 155
     }
   },
   {
@@ -495,18 +495,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.efimio.ru.ico",
     "slug": "gitea",
     "status": "down",
-    "uptime": "58.85%",
+    "uptime": "58.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "44.13%",
-    "time": 1149,
+    "uptimeYear": "43.85%",
+    "time": 1150,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 995,
     "dailyMinutesDown": {
-      "2024-02-16": 24,
+      "2024-02-17": 24,
+      "2024-02-16": 1440,
       "2024-02-15": 1440,
       "2024-02-14": 1440,
       "2024-02-13": 1440,
@@ -730,8 +731,7 @@
       "2023-03-12": 1129,
       "2023-03-06": 563,
       "2023-03-05": 1440,
-      "2023-03-04": 155,
-      "2023-02-17": 325
+      "2023-03-04": 155
     }
   },
   {
@@ -740,18 +740,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.efimio.ru.ico",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "58.84%",
+    "uptime": "58.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "44.12%",
-    "time": 2184,
+    "uptimeYear": "43.85%",
+    "time": 2176,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1702,
     "dailyMinutesDown": {
-      "2024-02-16": 24,
+      "2024-02-17": 24,
+      "2024-02-16": 1440,
       "2024-02-15": 1440,
       "2024-02-14": 1440,
       "2024-02-13": 1440,
@@ -976,8 +977,7 @@
       "2023-03-12": 1129,
       "2023-03-06": 563,
       "2023-03-05": 1440,
-      "2023-03-04": 154,
-      "2023-02-17": 325
+      "2023-03-04": 154
     }
   }
 ]
