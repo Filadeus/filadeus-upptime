@@ -3,14 +3,8 @@ owner: Filadeus # Your GitHub organization or username, where this repository li
 repo: filadeus-upptime # The name of this repository
 
 sites:
-  - name: Munin
-    url: https://munin.efimio.ru
   - name: PVE
-    url: https://pve-01.efimio.ru
-  - name: Gitea
-    url: https://git.efimio.ru
-  - name: Nextcloud
-    url: https://nextcloud.efimio.ru/
+    url: pve.efim.io
 assignees:
   - Filadeus
 
