@@ -1,7 +1,7 @@
 url: pve.efim.io
-status: down
-code: 530
-responseTime: 712
-lastUpdated: 2024-11-23T02:33:26.490Z
+status: up
+code: 200
+responseTime: 591
+lastUpdated: 2024-11-23T03:07:41.692Z
 startTime: 2022-06-30T13:06:44.000Z
 generator: Upptime <https://github.com/upptime/upptime>
