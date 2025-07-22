@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pve",
     "status": "up",
-    "uptime": "57.81%",
+    "uptime": "57.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "80.86%",
-    "time": 510,
-    "timeDay": 361,
-    "timeWeek": 524,
-    "timeMonth": 528,
-    "timeYear": 510,
+    "uptimeYear": "81.14%",
+    "time": 511,
+    "timeDay": 742,
+    "timeWeek": 558,
+    "timeMonth": 531,
+    "timeYear": 511,
     "dailyMinutesDown": {
       "2024-12-05": 37,
       "2024-12-03": 28,
@@ -91,8 +91,7 @@
       "2024-07-26": 1440,
       "2024-07-25": 1440,
       "2024-07-24": 1440,
-      "2024-07-23": 1440,
-      "2024-07-22": 1440
+      "2024-07-23": 1440
     }
   }
 ]
