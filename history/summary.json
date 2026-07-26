@@ -4,17 +4,17 @@
     "url": "pve.efim.io",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pve",
-    "status": "down",
+    "status": "up",
     "uptime": "53.50%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.96%",
+    "uptimeDay": "85.32%",
+    "uptimeWeek": "97.90%",
     "uptimeMonth": "68.01%",
-    "uptimeYear": "39.69%",
+    "uptimeYear": "39.65%",
     "time": 337,
-    "timeDay": 337,
-    "timeWeek": 442,
-    "timeMonth": 333,
-    "timeYear": 271,
+    "timeDay": 382,
+    "timeWeek": 445,
+    "timeMonth": 337,
+    "timeYear": 272,
     "dailyMinutesDown": {
       "2025-09-10": 26,
       "2025-09-22": 288,
@@ -240,7 +240,7 @@
       "2025-11-29": 1440,
       "2025-11-28": 1440,
       "2025-11-27": 64,
-      "2026-07-26": 4
+      "2026-07-26": 211
     }
   }
 ]
